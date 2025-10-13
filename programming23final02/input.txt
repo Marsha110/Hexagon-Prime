@@ -1,0 +1,8 @@
+place 3 4
+place 3 2
+place 3 1
+place 3 0
+place 0 1
+place 2 2
+place 4 0
+place 4 1
